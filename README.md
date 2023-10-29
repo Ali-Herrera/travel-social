@@ -3,6 +3,7 @@ A social media style app designed specifically with travel lovers in mind!
 
 <br>
 Share pictures from your travels, like and comment on others. 
+<br>
 
 <img width="1208" alt="TravelSocial" src="https://github.com/Ali-Herrera/travel-social/assets/122916748/9b9eb267-97c2-4163-b898-0fc565d249f8">
 
